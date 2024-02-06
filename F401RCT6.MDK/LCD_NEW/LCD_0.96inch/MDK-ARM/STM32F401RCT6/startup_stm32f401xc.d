@@ -1,0 +1,1 @@
+stm32f401rct6\startup_stm32f401xc.o: startup_stm32f401xc.s
